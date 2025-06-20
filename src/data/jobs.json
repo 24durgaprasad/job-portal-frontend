@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "TechNova Solutions",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+    "location": "Bangalore, India",
+    "description": "Skilled React developer needed to build and optimize responsive web apps. Experience in Tailwind and REST APIs is preferred.",
+    "salary": "₹8,00,000 - ₹12,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/frontend-developer"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "CloudCore Inc.",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/873/873120.png",
+    "location": "Hyderabad, India",
+    "description": "Develop scalable REST APIs using Node.js and MongoDB. Knowledge of microservices and Docker is a plus.",
+    "salary": "₹10,00,000 - ₹15,00,000 per annum",
+    "jobType": "Full-Time, Hybrid",
+    "applyLink": "https://example.com/jobs/backend-developer"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/3144/3144456.png",
+    "location": "Remote",
+    "description": "Creative UI/UX designer to craft beautiful, intuitive user experiences. Must know Figma, Adobe XD, and responsive design.",
+    "salary": "₹6,00,000 - ₹9,00,000 per annum",
+    "jobType": "Remote, Full-Time",
+    "applyLink": "https://example.com/jobs/ui-ux-designer"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Insight Analytics",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/2620/2620499.png",
+    "location": "Pune, India",
+    "description": "Analyze large datasets and build dashboards with Power BI/Tableau. Proficiency in SQL and Python required.",
+    "salary": "₹7,00,000 - ₹11,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/data-analyst"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "InfraWave",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "location": "Gurgaon, India",
+    "description": "DevOps expert needed to manage CI/CD, Docker, Kubernetes, and AWS infrastructure. Automate and secure cloud deployments.",
+    "salary": "₹12,00,000 - ₹18,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/devops-engineer"
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "Appsters",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/919/919836.png",
+    "location": "Mumbai, India",
+    "description": "Build and maintain Android/iOS apps using Flutter. Understanding of native modules is a bonus.",
+    "salary": "₹9,00,000 - ₹13,00,000 per annum",
+    "jobType": "Full-Time, Hybrid",
+    "applyLink": "https://example.com/jobs/mobile-developer"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "AI Minds",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/3771/3771518.png",
+    "location": "Chennai, India",
+    "description": "Build ML models for real-time predictions. Experience with scikit-learn, TensorFlow, and NLP projects is expected.",
+    "salary": "₹14,00,000 - ₹20,00,000 per annum",
+    "jobType": "Full-Time, Remote",
+    "applyLink": "https://example.com/jobs/ml-engineer"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "DevForge Labs",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "location": "Remote",
+    "description": "Looking for a full-stack developer proficient in React, Node.js, and MongoDB. Experience with Next.js is a plus.",
+    "salary": "₹11,00,000 - ₹14,00,000 per annum",
+    "jobType": "Remote, Full-Time",
+    "applyLink": "https://example.com/jobs/fullstack-developer"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Testlytics",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/7541/7541709.png",
+    "location": "Kolkata, India",
+    "description": "Manual and automated testing of web applications. Proficiency in Selenium and writing test cases is required.",
+    "salary": "₹5,00,000 - ₹8,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/qa-engineer"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Buildverse",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/4264/4264397.png",
+    "location": "Remote",
+    "description": "Coordinate product vision, design sprints, and development timelines. Experience in Agile and stakeholder communication needed.",
+    "salary": "₹15,00,000 - ₹22,00,000 per annum",
+    "jobType": "Full-Time, Remote",
+    "applyLink": "https://example.com/jobs/product-manager"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "Pixel Studios",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1159/1159633.png",
+    "location": "Delhi, India",
+    "description": "Create engaging designs for social media, websites, and ads. Proficiency in Photoshop, Illustrator, and Canva is preferred.",
+    "salary": "₹4,00,000 - ₹6,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/graphic-designer"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureShield",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1091/1091045.png",
+    "location": "Bangalore, India",
+    "description": "Monitor systems, detect vulnerabilities, and implement security protocols. CEH or CISSP certification is a plus.",
+    "salary": "₹9,00,000 - ₹14,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/cybersecurity-analyst"
+  },
+  {
+    "title": "Content Writer",
+    "company": "WriteWell Co.",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "location": "Remote",
+    "description": "Write blog posts, product descriptions, and marketing content. Excellent grammar and SEO knowledge required.",
+    "salary": "₹3,50,000 - ₹5,50,000 per annum",
+    "jobType": "Part-Time, Remote",
+    "applyLink": "https://example.com/jobs/content-writer"
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "BlockWave",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/873/873106.png",
+    "location": "Remote",
+    "description": "Develop smart contracts and DApps using Solidity and Ethereum. Familiarity with DeFi protocols preferred.",
+    "salary": "₹18,00,000 - ₹26,00,000 per annum",
+    "jobType": "Full-Time, Remote",
+    "applyLink": "https://example.com/jobs/blockchain-developer"
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "company": "Marketify",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/3314/3314623.png",
+    "location": "Jaipur, India",
+    "description": "Plan and execute campaigns across social media, email, and Google Ads. Knowledge of SEO/SEM is a must.",
+    "salary": "₹5,50,000 - ₹9,00,000 per annum",
+    "jobType": "Full-Time, Hybrid",
+    "applyLink": "https://example.com/jobs/digital-marketing"
+  },
+  {
+    "title": "System Administrator",
+    "company": "NetSecure",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/2933/2933886.png",
+    "location": "Chandigarh, India",
+    "description": "Install, configure, and maintain Linux/Windows servers. Good knowledge of networking and firewalls required.",
+    "salary": "₹6,50,000 - ₹10,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/system-admin"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "StratEdge Consulting",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1842/1842841.png",
+    "location": "Ahmedabad, India",
+    "description": "Gather requirements, analyze data, and support decision-making processes. Strong Excel and stakeholder management skills are needed.",
+    "salary": "₹7,50,000 - ₹11,00,000 per annum",
+    "jobType": "Full-Time, Hybrid",
+    "applyLink": "https://example.com/jobs/business-analyst"
+  },
+  {
+    "title": "Technical Support Engineer",
+    "company": "TechAssist",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/1261/1261163.png",
+    "location": "Noida, India",
+    "description": "Provide Level 1 and 2 support for software products. Must have good communication and troubleshooting skills.",
+    "salary": "₹4,00,000 - ₹6,00,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/support-engineer"
+  },
+  {
+    "title": "HR Executive",
+    "company": "PeoplePulse",
+    "companyImage": "https://cdn-icons-png.flaticon.com/512/2504/2504932.png",
+    "location": "Surat, India",
+    "description": "Manage recruitment, onboarding, and employee engagement activities. MBA in HR preferred.",
+    "salary": "₹3,60,000 - ₹5,50,000 per annum",
+    "jobType": "Full-Time, On-Site",
+    "applyLink": "https://example.com/jobs/hr-executive"
+  }
+]
